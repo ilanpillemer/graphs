@@ -1,0 +1,5 @@
+graph example {
+ 0 -- 5 [label=0]
+ 1 -- 4 [label=1]
+ 2 -- 3 [label=2]
+}
